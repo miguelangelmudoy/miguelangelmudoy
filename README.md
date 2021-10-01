@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miguelangelmudoy !
-- 👀 I’m interested in Mathematics, Statistics and Probability.
+- 👀 I’m interested in Computational Mathematics and Data Science.
 - 🌱 I’m currently learning and improving my SQL, Python, R, and M programming skills.
 - 💞️ I’m looking to collaborate on any social or business projects worldwide.
 - 📫 You can reach me on GitHub or LinkedIn.
