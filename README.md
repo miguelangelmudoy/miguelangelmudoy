@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @miguelangelmudoy !
-- 👀 I am a University Degree Student of Computational and Applied Mathematical Sciences, an enthusiast of Data Science, and a Chess player. I am passionate about Mathematics applied to Computing, Data Science, as well as the tactics and strategies of the game of Chess.
-- 💞️ I’m looking to collaborate on any social or business projects worldwide.
-- 📫 You can reach me on GitHub or LinkedIn.
+- 👋 ¡Hola a Tod@s! 
+- 👀 Soy Maestro de Ajedrez Educativo y Estudiante Universitario de Grado en Ciencias Matemáticas Computacionales y Aplicadas. Me apasionan las Matemáticas aplicadas a la Computación; así como las tácticas y las estrategias del juego de Ajedrez.
+- 💞️ Estoy buscando colaborar en cualquier proyecto social o empresarial en todo el mundo.
+- 📫 Puedes contactarme en GitHub o LinkedIn. ¡Gracias!
 <!---
 miguelangelmudoy/miguelangelmudoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
