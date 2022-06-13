@@ -1,5 +1,5 @@
 - 👋 ¡Hola a Tod@s! 
-- 👀 Soy Maestro de Ajedrez Educativo y Estudiante Universitario de Grado en Ciencias Matemáticas Computacionales y Aplicadas. Me apasionan las Matemáticas aplicadas a la Computación; así como las tácticas y las estrategias del juego de Ajedrez.
+- 👀 Soy Estudiante Universitario de Grado en Ciencias Matemáticas Computacionales y Aplicadas. Me apasionan las Matemáticas aplicadas a la Computación; así como las tácticas y las estrategias del juego de Ajedrez.
 - 💞️ Estoy buscando colaborar en cualquier proyecto social o empresarial en todo el mundo.
 - 📫 Puedes contactarme en GitHub o LinkedIn. ¡Gracias!
 <!---
